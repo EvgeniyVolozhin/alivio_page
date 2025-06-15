@@ -1,0 +1,25 @@
+.pricing {
+    background-color: var(--co-dark-green);
+    padding: 95px 0 145px;
+}
+
+.pricing_content {
+    color: var(--co-white);
+    padding: 0 0 0 3dvh;
+}
+
+.pricing_title {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.pricing_nav-list {
+    margin: 65px 0 0 0;
+    font-weight: 600;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 60px;
+}
